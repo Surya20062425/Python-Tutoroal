@@ -39,4 +39,7 @@ status = input(" enter your status ")
 
 # It default shows as enter your status 
 
+age, hallticket= input("Enter age and hallticket-number in order : ").split()
+print(age, hallticket)
+
 
